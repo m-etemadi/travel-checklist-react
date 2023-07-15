@@ -1,6 +1,6 @@
-# Travel Checklist Web Application
+# Simple Travel Checklist
 
-This is a simple travel checklist web application built using HTML, CSS, and React.js. The application allows users to create and manage their travel checklists, ensuring they don't forget any essential items before embarking on their trips.
+This is a simple travel checklist web application built using HTML5, CSS3, and ReactJS. The application allows users to create and manage their travel checklist, ensuring they don't forget any essential items before embarking on their trips.
 
 ## Features
 
