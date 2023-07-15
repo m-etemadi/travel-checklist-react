@@ -12,13 +12,13 @@ This is a simple travel checklist web application built using HTML, CSS, and Rea
 
 ## Demo
 
-You can try out a live demo of the application [here](https://example.com).
+You can try out a live demo of the application [here](https://travelchecklist.netlify.app/).
 
 ## Installation
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/travel-checklist.git`
+1. Clone the repository: `git clone https://github.com/m-etemadi/travel-checklist.git`
 2. Navigate to the project directory: `cd travel-checklist`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
