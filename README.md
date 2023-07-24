@@ -18,8 +18,8 @@ You can try out a live demo of the application [here](https://travelchecklist.ne
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/m-etemadi/travel-checklist.git`
-2. Navigate to the project directory: `cd travel-checklist`
+1. Clone the repository: `git clone https://github.com/m-etemadi/travel-checklist-react.git`
+2. Navigate to the project directory: `cd travel-checklist-react`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000`
