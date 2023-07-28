@@ -1,6 +1,6 @@
 # Simple Travel Checklist
 
-This is a simple travel checklist web application built using HTML5, CSS3, and ReactJS. The application allows users to create and manage their travel checklist, ensuring they don't forget any essential items before embarking on their trips.
+A simple travel checklist web application built using HTML5, CSS3, and ReactJS. The application allows users to create and manage their travel checklist, ensuring they don't forget any essential items before embarking on their trips.
 
 ## Features
 
@@ -12,7 +12,13 @@ This is a simple travel checklist web application built using HTML5, CSS3, and R
 
 ## Demo
 
-You can try out a live demo of the application [here](https://travelchecklist.netlify.app/).
+You can try out a live demo of the application [here](https://travelchecklist-etemadi.netlify.app/).
+
+## Technologies Used
+
+- React.js
+- HTML5
+- CSS3
 
 ## Installation
 
