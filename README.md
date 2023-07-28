@@ -16,9 +16,8 @@ You can try out a live demo of the application [here](https://travelchecklist-et
 
 ## Technologies Used
 
-- React.js
-- HTML5
-- CSS3
+- React.js: A JavaScript library for building user interfaces.
+- HTML and CSS: For the basic structure and styling.
 
 ## Installation
 
